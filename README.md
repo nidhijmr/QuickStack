@@ -1,6 +1,7 @@
 # QuickStack
 
 ## Introduction
+QuickStack is a platform-as-a-service which provides online learning portal. It is built on top of OpenStack and uses both of its controlling interfaces: Rest API and Command Line Interface. The user logs in and views the catalog of available training labs. When the user selects the lab and starts it, the application builds infrastructure dynamically based on the user’s request using OpenStack services.
 
 ## Technology used
 1. Quick Stack Project is built on top of OpenStack and uses both of its controlling interfaces: Rest API and Command Line Interface.
