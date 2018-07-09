@@ -28,7 +28,7 @@ a. Apache Tomcat is used to run the Quick Stack application on local host.
 ## Application Features
 
 ### Create Servers
-![image](https://user-images.githubusercontent.com/32632834/42430613-1d59d1dc-82f5-11e8-90cb-d38a21e71c98.png)
+![image](https://user-images.githubusercontent.com/32632834/42430764-1bd48f86-82f6-11e8-89ca-668c0b689b1b.png)
 
 ### Create Snapshot and Restore
 ![image](https://user-images.githubusercontent.com/32632834/42430613-1d59d1dc-82f5-11e8-90cb-d38a21e71c98.png)
